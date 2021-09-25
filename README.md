@@ -1,4 +1,4 @@
-# SMT
+# SMT [Note code has been moved to accumulated]
 
 Stateful Merkle Trees provide the support for  building and maintaining
 information in Merkle Trees.  On the face of this, SMT isn't very different
